@@ -2,6 +2,7 @@
 menu:
   Home: /
   Archives: /archives
+  About: /about
 rss: /atom.xml
 
 # Content
@@ -34,3 +35,5 @@ twitter: bravegeek
 google_plus:
 fb_admins:
 fb_app_id:
+github: bravegeek
+linked_in: gregoryread
