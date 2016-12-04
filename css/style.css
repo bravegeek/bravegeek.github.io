@@ -318,14 +318,14 @@ body {
   position: absolute;
   left: 0;
   right: 0;
-  height: 40px;
+  height: 70px;
 }
 #header:before {
   top: 0;
-  background: -webkit-linear-gradient(rgba(0,0,0,0.2), transparent);
-  background: -moz-linear-gradient(rgba(0,0,0,0.2), transparent);
-  background: -ms-linear-gradient(rgba(0,0,0,0.2), transparent);
-  background: linear-gradient(rgba(0,0,0,0.2), transparent);
+  background: -webkit-linear-gradient(rgba(0,0,0,0.75), transparent);
+  background: -moz-linear-gradient(rgba(0,0,0,0.75), transparent);
+  background: -ms-linear-gradient(rgba(0,0,0,0.75), transparent);
+  background: linear-gradient(rgba(0,0,0,0.75), transparent);
 }
 #header:after {
   bottom: 0;
@@ -410,7 +410,7 @@ body {
   font-size: 14px;
   width: 14px;
   height: 14px;
-  padding: 20px 15px;
+  padding: 15px 15px;
   position: relative;
   cursor: pointer;
 }
