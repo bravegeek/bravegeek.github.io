@@ -1,0 +1,45 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "Greg Read"
+keywords:    "SinglePaged, jekyll, template, github, blog, single page"
+description: "Greg Read and his words"
+source_link: "https://github.com/bravegeek"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  bgdarkblue: '#557A95'
+  bgliteblue: '#7395AE'
+  bgdarkgray: '#5D5C61'
+  bglitegray: '#938E94'
+  bglitebeige: '#B1A296'
+  bgdarkbeige: '#907163'
+  bgdarkred: '#9A1750'
+
+kramdown:
+  auto_ids:  false
+
