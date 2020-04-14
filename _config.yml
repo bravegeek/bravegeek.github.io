@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Greg Read"
+title:       "Gregory Read"
 keywords:    "software developer, software development manager"
 description: "Get to know Greg"
 source_link: "https://github.com/bravegeek"
