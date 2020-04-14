@@ -15,8 +15,8 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Greg Read"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "Greg Read and his words"
+keywords:    "software developer, software development manager"
+description: "Get to know Greg"
 source_link: "https://github.com/bravegeek"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
@@ -40,7 +40,7 @@ colors:
   bgdarkbeige: '#907163'
   bgdarkred: '#9A1750'
   bgdarkgreen: '#687864'
-  
+
 kramdown:
   auto_ids:  false
 
