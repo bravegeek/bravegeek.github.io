@@ -194,6 +194,7 @@ nav ul li:hover, nav ul li.active {
   height: 260px;
   border: 20px solid rgba(255,255,255,0.1);
   border-radius: 50%;
+  margin: 10px;
 }
 
 .imagecenter {
