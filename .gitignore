@@ -1,2 +1,4 @@
 _site/
 .DS_Store
+.ionide/symbolCache.db
+.vscode/settings.json
